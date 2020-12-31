@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{60C7A1B3-822A-4A7A-AE5D-D833DADA438E}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumTest.cs">
+    <Files>
+      <File FileName="Program.cs" Line="13" Column="78" />
+      <File FileName="ITest.cs" Line="36" Column="54" />
+      <File FileName="SeleniumTest.cs" Line="20" Column="32" />
+      <File FileName="packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Integration_Testing" expanded="True">
+            <Node name="Integration_Testing" expanded="True">
+              <Node name="SeleniumTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Integration_Testing" expanded="True">
+            <Node name="Integration_Testing" expanded="True">
+              <Node name="SeleniumTests" expanded="True">
+                <Node name="ELPTestCase" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Integration__Testing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
